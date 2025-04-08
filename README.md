@@ -36,11 +36,15 @@ Senior React Native & Ionic Developer with 10+ years of expertise in mobile and 
 - 🛠️ Contributed to popular open-source packages including React Native Sound, Voice, and SplashScreen
 
 ## 🌐 Connect With Me
-- Email: harindercse@outlook.com
+# Hi there 👋 I'm Harinder Singh
+👨‍💻 React Native | Ionic | Frontend Engineer  
+🚀 Building cross-platform apps with performance & beauty  
+💬 Ask me about JavaScript, TypeScript, Firebase, SQLite  
+📫 How to reach me: harindercse@outlook.com
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ErHarinderSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErHarinderSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ErHarinderSingh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErHarinderSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
