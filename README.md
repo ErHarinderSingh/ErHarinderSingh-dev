@@ -1,6 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React+Native+Developer+%F0%9F%98%8E)](https://git.io/typing-svg)
 # 👋 Hi, I'm Harinder Singh
+👨‍💻 React Native | Ionic | Frontend Engineer  
+🚀 Building cross-platform apps with performance & beauty  
+💬 Ask me about JavaScript, TypeScript, Firebase, SQLite  
 
 Senior React Native & Ionic Developer with 10+ years of expertise in mobile and web development. I specialize in Native and Turbo Modules (Kotlin & Objective-C), React.js, Node.js. Passionate about creating high-performance cross-platform applications and contributing to open-source projects.
 
@@ -36,10 +39,6 @@ Senior React Native & Ionic Developer with 10+ years of expertise in mobile and 
 - 🛠️ Contributed to popular open-source packages including React Native Sound, Voice, and SplashScreen
 
 ## 🌐 Connect With Me
-# Hi there 👋 I'm Harinder Singh
-👨‍💻 React Native | Ionic | Frontend Engineer  
-🚀 Building cross-platform apps with performance & beauty  
-💬 Ask me about JavaScript, TypeScript, Firebase, SQLite  
 📫 How to reach me: harindercse@outlook.com
 
 ---
